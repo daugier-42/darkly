@@ -1,0 +1,4 @@
+
+    function checkForm(){return (true)};
+    function validate_form(){return (true);}
+    <script>alert("coucou");</script>

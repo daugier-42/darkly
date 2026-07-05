@@ -1,0 +1,5 @@
+# wget -r -k -np "http://192.168.99.128/.hidden/README"
+#wget -m -pc -k -i -P "http://192.168.99.128/.hidden/"
+#wget -r -i  "http://192.168.99.128/.hidden/"
+wget -r -l10 -np -i "http://192.168.202.128/.hidden/"
+#wget -r -linf -np -i "http://192.168.99.128/.hidden/"

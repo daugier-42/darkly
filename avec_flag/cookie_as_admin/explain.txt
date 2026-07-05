@@ -1,0 +1,3 @@
+hash du cookie "I_AM_ADMIN" == false
+
+creer un cookier "I_AM_ADMIN" == true
